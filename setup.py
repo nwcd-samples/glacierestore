@@ -13,13 +13,13 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'pysqler'
-DESCRIPTION = 'Easy to write sql'
-URL = 'https://github.com/tingxin/pysqler'
+NAME = 'glacierestore'
+DESCRIPTION = 'Easy to restore objects from AWS Glacier to AWS S3 in bulk'
+URL = 'https://github.com/nwcd-samples/glacierestore.git'
 EMAIL = 'friendship-119@163.com'
 AUTHOR = 'barry.xu'
 REQUIRES_PYTHON = '>=3.6.0'
-VERSION = None
+VERSION = '0.1.1'
 
 # What packages are required for this module to be executed?
 REQUIRED = [

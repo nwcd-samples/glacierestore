@@ -1,4 +1,4 @@
-# The tool for restore objects from AWS S3 to AWS Glacier
+# The tool for restore objects from AWS Glacier to AWS S3
 There is no way to restre objects under one folder to AWS S3, this tool can help you do this
 
 ## prerequisite
@@ -13,4 +13,4 @@ pip install galcierestore
 ```
 galcierestore
 ```
-please fellow the promot to fill the required arguments
+please fellow the prompt to fill the required arguments
