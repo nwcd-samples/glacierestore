@@ -6,11 +6,20 @@ There is no way to restre objects under one folder to AWS S3, this tool can help
 
 ## install
 ```
+pip install -r requirement.txt
 pip install galcierestore
 ```
 
 ## how to use it
 ```
+python3 glacierstore.py
+```
+
+
+or
+
+```
 galcierestore
+
 ```
 please fellow the prompt to fill the required arguments
